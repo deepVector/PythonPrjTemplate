@@ -11,10 +11,6 @@ Module credits:
         https://saurabh-kumar.com/python-dotenv/
 """
 
-import os
-
-from dotenv import find_dotenv, load_dotenv
-
 __author__ = 'deepVector'
 __copyright__ = 'Copyright 2020-present, deepVector'
 __credits__ = ['']
@@ -23,6 +19,10 @@ __version__ = '1.0.1'
 __maintainer__ = 'deepVector'
 __email__ = 'd33pv3ct0r@gmail.com'
 __status__ = 'Dev'
+
+import os
+
+from dotenv import find_dotenv, load_dotenv
 
 # Find .env by walking up directories until it's found
 dotenv_path = find_dotenv()
