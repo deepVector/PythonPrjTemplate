@@ -1,8 +1,11 @@
 # -*- coding: utf-8 -*-
 """Example example_dotenv.py file.
 
-Adapted from:
-        https://drivendata.github.io/cookiecutter-data-science/#directory-structure
+Author:
+    deepVector
+        https://github.com/deepVector
+License:
+    MIT (see LICENSE.md)
 
 Module credits:
     os:
@@ -11,16 +14,13 @@ Module credits:
         https://saurabh-kumar.com/python-dotenv/
 """
 
-__author__ = 'deepVector'
-__copyright__ = 'Copyright 2020-present, deepVector'
-__credits__ = ['']
-__license__ = 'MIT'
-__maintainer__ = 'deepVector'
-__email__ = 'd33pv3ct0r@gmail.com'
-
 import os
 
 from dotenv import find_dotenv, load_dotenv
+
+"""Adapted from:
+    https://drivendata.github.io/cookiecutter-data-science/#directory-structure
+"""
 
 # Find .env by walking up directories until it's found
 dotenv_path = find_dotenv()
