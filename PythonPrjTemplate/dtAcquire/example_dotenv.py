@@ -18,14 +18,8 @@ import os
 
 from dotenv import find_dotenv, load_dotenv
 
-"""Adapted from:
-    https://drivendata.github.io/cookiecutter-data-science/#directory-structure
-"""
-
-# Find .env by walking up directories until it's found
-dotenv_path = find_dotenv()
-
-# Load up the entries as environment variables
-load_dotenv(dotenv_path)
+# Find .env then load the entries as environment variables
+path_dotenv = find_dotenv()
+load_dotenv(path_dotenv)
 
 variable = os.environ.get("VARIABLE")
