@@ -1,1 +1,1 @@
-Functions used across the project.
+Utilities used across the project.
