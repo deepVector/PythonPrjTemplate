@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """Project paths.
 
@@ -5,17 +6,12 @@ The project is composed of a code folder and a separate data folder.
 The folders are setup as per the following templates:
     https://github.com/deepVector/PythonPrjTemplate
     https://github.com/deepVector/PythonPrjTemplate_data
-
-Author:
-    deepVector
-        https://github.com/deepVector
-License:
-    MIT (see LICENSE.md)
-
-Module credits:
-    os:
-        https://docs.python.org/3/
 """
+
+__author__ = "deepVector: https://github.com/deepVector"
+__copyright__ = "Copyright 2020-present, deepVector"
+__credits__ = ["os: https://docs.python.org/3/"]
+__license__ = "MIT"
 
 import os
 
