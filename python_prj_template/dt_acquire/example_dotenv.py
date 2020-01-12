@@ -6,7 +6,7 @@ __author__ = "deepVector: https://github.com/deepVector"
 __copyright__ = "Copyright 2020-present, deepVector"
 __credits__ = ["os: https://docs.python.org/3/",
                "dotenv: https://saurabh-kumar.com/python-dotenv/"]
-__license__ = "MIT"
+__license__ = "CC BY-NC"
 
 import os
 

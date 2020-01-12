@@ -11,7 +11,7 @@ The folders are setup as per the following templates:
 __author__ = "deepVector: https://github.com/deepVector"
 __copyright__ = "Copyright 2020-present, deepVector"
 __credits__ = ["os: https://docs.python.org/3/"]
-__license__ = "MIT"
+__license__ = "CC BY-NC"
 
 import os
 
