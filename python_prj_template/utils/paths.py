@@ -1,16 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""Project paths.
-
-The project is composed of a code folder and a separate data folder.
-The folders are setup as per the following templates:
-    https://github.com/deepVector/PythonPrjTemplate
-    https://github.com/deepVector/PythonPrjTemplate_data
-"""
+"""This file contains project-wide variables."""
 
 __author__ = "deepVector: https://github.com/deepVector"
 __copyright__ = "Copyright 2020-present, deepVector"
-__credits__ = ["os: https://docs.python.org/3/"]
+__credits__ = ["os: https://docs.python.org"]
 __license__ = "CC BY-NC"
 
 import os
@@ -19,14 +13,14 @@ import os
 DIR_CODE_ROOT = os.getcwd()
 
 # Define the path to project data folder
-dir_data_root = os.path.join(DIR_CODE_ROOT + "_data")
+DIR_DATA_ROOT = os.path.join(DIR_CODE_ROOT + "_data")
 
 # Define a list of subfolder names for the code and data folders
 dir_code_subdir_path_ids = ["conf",
                             "docs",
                             "references"]
 
-dir_data_subdir_path_ids = ["dtAcquired",
+DIR_DATA_subdir_path_ids = ["dtAcquired",
                             "dtInterim",
                             "dtProcessed",
                             "dtResults",
@@ -34,6 +28,7 @@ dir_data_subdir_path_ids = ["dtAcquired",
                             "modelsOutput",
                             "reports",
                             "reportsFig"]
+
 # Assign paths
 (DIR_CODE_CONF,
  DIR_CODE_DOCS,
@@ -50,7 +45,17 @@ dir_data_subdir_path_ids = ["dtAcquired",
  DIR_DATA_MODELS,
  DIR_DATA_MODELS_OUTPUT,
  DIR_DATA_REPORTS,
- DIR_DATA_REPORTS_FIG) = [os.path.join(
-     dir_data_root,
-     dir_data_subdir_path_id)
-    for dir_data_subdir_path_id in dir_data_subdir_path_ids]
+ DIR_DATA_REPORTS_FIG) = [
+    os.path.join(
+        DIR_DATA_ROOT,
+        DIR_DATA_subdir_path_id)
+    for DIR_DATA_subdir_path_id in DIR_DATA_subdir_path_ids]
+
+DATA_SUBDIR_PATHS = (DIR_DATA_ACQUIRED,
+                     DIR_DATA_INTERIM,
+                     DIR_DATA_MODELS,
+                     DIR_DATA_MODELS_OUTPUT,
+                     DIR_DATA_PROCESSED,
+                     DIR_DATA_REPORTS,
+                     DIR_DATA_REPORTS_FIG,
+                     DIR_DATA_RESULTS)
