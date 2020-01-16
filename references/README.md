@@ -1,1 +1,1 @@
-Data dictionaries, manuals, and other explanatory materials.
+Manuals, and other explanatory materials.
