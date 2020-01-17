@@ -1,8 +1,8 @@
-Copyright (c) 2020-present [copyright holder]
+Copyright (c) 2020-present deepVector
 
-# Creative Commons Attribution-NonCommercial 4.0 International Public License
+# Creative Commons Attribution 4.0 International Public License (cc-by-4.0)
 
-By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
+By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
 
 ## Section 1 – Definitions.
 
@@ -22,13 +22,11 @@ g. **Licensed Rights** means the rights granted to You subject to the terms and 
 
 h. **Licensor** means the individual(s) or entity(ies) granting rights under this Public License.
 
-i. **NonCommercial** means not primarily intended for or directed towards commercial advantage or monetary compensation. For purposes of this Public License, the exchange of the Licensed Material for other material subject to Copyright and Similar Rights by digital file-sharing or similar means is NonCommercial provided there is no payment of monetary compensation in connection with the exchange.
+i. **Share** means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.
 
-j. **Share** means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.
+j. **Sui Generis Database Rights** means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
 
-k. **Sui Generis Database Rights** means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
-
-l. **You** means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.
+k. **You** means the individual or entity exercising the Licensed Rights under this Public License. **Your** has a corresponding meaning.
 
 ## Section 2 – Scope.
 
@@ -36,9 +34,9 @@ l. **You** means the individual or entity exercising the Licensed Rights under t
 
 1.  Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
 
-    A. reproduce and Share the Licensed Material, in whole or in part, for NonCommercial purposes only; and
+    A. reproduce and Share the Licensed Material, in whole or in part; and
 
-    B. produce, reproduce, and Share Adapted Material for NonCommercial purposes only.
+    B. produce, reproduce, and Share Adapted Material.
 
 
 2.  **_Exceptions and Limitations_**. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
@@ -61,7 +59,7 @@ l. **You** means the individual or entity exercising the Licensed Rights under t
 
 2.  Patent and trademark rights are not licensed under this Public License.
 
-3.  To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties, including when the Licensed Material is used other than for NonCommercial purposes.
+3.  To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties.
 
 ## Section 3 – License Conditions.
 
@@ -97,7 +95,7 @@ Your exercise of the Licensed Rights is expressly made subject to the following 
 
 Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:
 
-a. for the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database for NonCommercial purposes only;
+a. for the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database;
 
 b. if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material; and
 
@@ -145,4 +143,4 @@ c. No term or condition of this Public License will be waived and no failure to 
 
 d. Nothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.
 
-For more information, see <https://creativecommons.org/licenses/by-nc/4.0/>.
+For more information, see <https://creativecommons.org/licenses/by/4.0/>.
